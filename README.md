@@ -2,6 +2,20 @@
 
 Welcome to my GitHub profile! I'm a developer passionate about building web experiences and exploring 3D web technologies.
 
+## 🎨 Check Out My 3D Model Viewer
+
+<model-viewer
+  alt="Neil Armstrong's Spacesuit"
+  src="https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  ar
+  environment-image="https://modelviewer.dev/shared-assets/environments/moon_1k.hdr"
+  poster="https://modelviewer.dev/shared-assets/models/Astronaut.webp"
+  shadow-intensity="1"
+  camera-controls
+  touch-action="pan-y"
+  style="width: 100%; height: 600px; border-radius: 8px;">
+</model-viewer>
+
 ## 🚀 About Me
 
 I work with modern web technologies and love experimenting with interactive visualizations, like 3D model viewers and immersive web experiences. Currently exploring **model-viewer** and web components.
